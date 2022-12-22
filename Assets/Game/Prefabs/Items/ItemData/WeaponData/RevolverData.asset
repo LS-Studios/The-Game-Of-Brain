@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb8311a1d41df54bb046eef171723df, type: 3}
+  m_Name: RevolverData
+  m_EditorClassIdentifier: 
+  itemName: Revolver
+  damage: 45
+  currentAmmount: 1
+  maxAmmount: 1
+  canGetLeveled: 1
+  currentLevel: 0
+  maxLevel: 20
+  levelImprovements:
+  - name: Bullet typ
+    level: 15
+    changeVariable:
+      changeDataClass: 0
+      dataTyp: 0
+      dataClass: {fileID: 0}
+      variablesToChange:
+        variable1Name: bulletTyp
+        appending: 
+        variable2Name: 
+      changeValues:
+        valToUpgradeVar1: 2
+        valToUpgradeVar2: 
+  - name: Bullet typ
+    level: 20
+    changeVariable:
+      changeDataClass: 0
+      dataTyp: 0
+      dataClass: {fileID: 0}
+      variablesToChange:
+        variable1Name: bulletTyp
+        appending: 
+        variable2Name: 
+      changeValues:
+        valToUpgradeVar1: 1
+        valToUpgradeVar2: 
+  - name: ExtraDamage
+    level: 20
+    changeVariable:
+      changeDataClass: 0
+      dataTyp: 0
+      dataClass: {fileID: 0}
+      variablesToChange:
+        variable1Name: damage
+        appending: 
+        variable2Name: 
+      changeValues:
+        valToUpgradeVar1: 15
+        valToUpgradeVar2: 
+  upgradeImprovements:
+  - upgradeName: Damage
+    changeVariable:
+      changeDataClass: 0
+      dataTyp: 0
+      dataClass: {fileID: 0}
+      variablesToChange:
+        variable1Name: damage
+        appending: 
+        variable2Name: 
+      changeValues:
+        valToUpgradeVar1: 2
+        valToUpgradeVar2: 
+  - upgradeName: Max ammo
+    changeVariable:
+      changeDataClass: 0
+      dataTyp: 0
+      dataClass: {fileID: 0}
+      variablesToChange:
+        variable1Name: maxClipAmmo
+        appending: /
+        variable2Name: maxAmmo
+      changeValues:
+        valToUpgradeVar1: 
+        valToUpgradeVar2: 2
+  gamePointPrice: 5
+  cashPrice: 0
+  braincellPrice: 0
+  dataTyp: 0
+  itemCategory: 1
+  weaponData:
+    currentAmmo: 24
+    currentClipAmmo: 6
+    maxAmmo: 24
+    maxClipAmmo: 6
+    firerate: 0
+    isTriggerWeapon: 1
+    isSingleReloader: 1
+    currentReloadSound: 
+    reloadSounds:
+    - RevolverSingleReload
+    - RevolverEndReload
+    singleReloadTime: 0.5
+    reloadAnimations:
+    - Revolver single reload
+    - Revolver end reload
+    reloadTimeMultiply: 1
+    currentAttackSound: 
+    attackSounds:
+    - RevolverShoot
+    weaponTyp: 0
+    projectileTyp: 0
+    damageTyp: 0
+    penetratingPower: 1
+  grenadeData:
+    grenadeTyp: 0
+    effectValue: 0
+    sprite: {fileID: 0}
+    throwSound: 
+  lMGData:
+    maxHealth: 100
+    destructiveStateSteps: []
+    tops: []
+    bases: []
+    aimRadius: 5
+  extraData:
+    extraTyp: 0
+  perkData:
+    perkTyp: 0
+  generalData:
+    placeSightSize: 7
+    sightTyp: 1
+    holdingType: 1
+    meeleWeaponType: 0
+    oneHandetWeaponTyp: 2
+    twoHandetWeaponTyp: 0
+    objectTyp: 0
+  slotData:
+    itemImageSide: {fileID: 2016430027, guid: 1016d79b8d3ef2442a33c9c34ce24645, type: 3}
+    slotImageScaleSide: {x: 2.3, y: 2.3}
+    slotImageRotationSide: 0
+    itemImageTop: {fileID: 451605903, guid: 29f52d13164da09469a68f54e4e086e6, type: 3}
+    slotImageScaleTop: {x: 3, y: 3}
+    slotImageRotationTop: 0
+    stets:
+    - name: Damage
+      stetValues:
+        variable1Name: damage
+        appending: 
+        variable2Name: 
+    - name: Ammo
+      stetValues:
+        variable1Name: currentClipAmmo
+        appending: /
+        variable2Name: currentAmmo
+    - name: Damage typ
+      stetValues:
+        variable1Name: damageTyp
+        appending: 
+        variable2Name: 
+    decription: If you would like to be the sheriff, take this baby!
+  globalData: {fileID: 11400000, guid: 545f2c65dbb766e4ca7b30699686d3af, type: 2}

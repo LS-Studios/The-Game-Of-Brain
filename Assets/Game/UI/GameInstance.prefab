@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4796889163916308084
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4796889163916308087}
+  - component: {fileID: 4796889163916308086}
+  m_Layer: 0
+  m_Name: GameInstance
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4796889163916308087
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4796889163916308084}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 854.7357, y: 502.48224, z: -1408.9365}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4796889163916308086
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4796889163916308084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 366840ccc289cd645a5fc4fe1cd7dae3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  character: {fileID: 0}
+  inventory:
+  - {fileID: 4217265272094849050, guid: 211f93665d8877240a08cd7792579310, type: 3}
+  - {fileID: 9047205086817701596, guid: 77095d0fd11d2044781609927a6abf9e, type: 3}
+  - {fileID: 8687797552033437630, guid: a6a202d6370a9374f93d082a86317654, type: 3}
+  - {fileID: 7254118521851064096, guid: a6ed993380872db4a9416d09990fb2a1, type: 3}
+  - {fileID: 7868826380210966635, guid: 382c7f4c70848a044acf47398ebeafe3, type: 3}
+  - {fileID: 4837684327069201066, guid: 1356806084f31794d90b60e4746c61c6, type: 3}
+  gameSceneName: 
+  gameHasStartenAlready: 0
+  pistols:
+  - {fileID: 4251844182182890412, guid: e6164d162dcfbf548a8b44e4c72b68d2, type: 3}
+  assualtRiffels:
+  - {fileID: 9047205086817701596, guid: 77095d0fd11d2044781609927a6abf9e, type: 3}
+  shotGuns:
+  - {fileID: 5169072077784218385, guid: 0ad2ae7cf2c97284ca42ca5fbfe61749, type: 3}
+  grenades:
+  - {fileID: 7254118521851064096, guid: a6ed993380872db4a9416d09990fb2a1, type: 3}
+  - {fileID: 6764851231062994158, guid: f3e32b303c31e7740960e867003a4ad4, type: 3}
+  meeleWeapons:
+  - {fileID: 8687797552033437630, guid: a6a202d6370a9374f93d082a86317654, type: 3}
+  special:
+  - {fileID: 321215526275174130, guid: 189b7788ab3969848bed108f2a5fd40d, type: 3}
+  - {fileID: 4217265272094849050, guid: 211f93665d8877240a08cd7792579310, type: 3}
+  useable:
+  - {fileID: 7868826380210966635, guid: 382c7f4c70848a044acf47398ebeafe3, type: 3}
+  - {fileID: 4837684327069201066, guid: 1356806084f31794d90b60e4746c61c6, type: 3}

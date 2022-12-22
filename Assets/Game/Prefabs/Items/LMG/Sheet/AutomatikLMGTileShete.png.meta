@@ -1,0 +1,934 @@
+fileFormatVersion: 2
+guid: fbd01328c340f074eaa241635d7b910d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6284094538238010448
+    second: AutomatikLMGTileShete_0
+  - first:
+      213: 6179456925213870284
+    second: AutomatikLMGTileShete_1
+  - first:
+      213: -6567785626028043209
+    second: AutomatikLMGTileShete_2
+  - first:
+      213: -1043788013739066617
+    second: AutomatikLMGTileShete_3
+  - first:
+      213: 8595880481242315517
+    second: AutomatikLMGTileShete_4
+  - first:
+      213: -6750285947456957375
+    second: AutomatikLMGTileShete_5
+  - first:
+      213: -5293436181519503026
+    second: AutomatikLMGTileShete_6
+  - first:
+      213: -739427722404662801
+    second: AutomatikLMGTileShete_7
+  - first:
+      213: -2208473023497597092
+    second: AutomatikLMGTileShete_8
+  - first:
+      213: 9031757153470426343
+    second: AutomatikLMGTileShete_9
+  - first:
+      213: -2288636248228205002
+    second: AutomatikLMGTileShete_10
+  - first:
+      213: 4918229379360631667
+    second: AutomatikLMGTileShete_11
+  - first:
+      213: -6870230477988492356
+    second: AutomatikLMGTileShete_12
+  - first:
+      213: -4674914989127265478
+    second: AutomatikLMGTileShete_13
+  - first:
+      213: -7000983001791837003
+    second: AutomatikLMGTileShete_14
+  - first:
+      213: 1762771641284884746
+    second: AutomatikLMGTileShete_15
+  - first:
+      213: -5262583916945867823
+    second: AutomatikLMGTileShete_16
+  - first:
+      213: 1855564060985541524
+    second: AutomatikLMGTileShete_17
+  - first:
+      213: 1324779487332166015
+    second: AutomatikLMGTileShete_18
+  - first:
+      213: -6870675414623322977
+    second: AutomatikLMGTileShete_19
+  - first:
+      213: 5572673896498402384
+    second: AutomatikLMGTileShete_20
+  - first:
+      213: -991564817488229426
+    second: AutomatikLMGTileShete_21
+  - first:
+      213: 5504787415482589210
+    second: AutomatikLMGTileShete_22
+  - first:
+      213: -1969962323098485459
+    second: AutomatikLMGTileShete_23
+  - first:
+      213: -4179689964976441710
+    second: AutomatikLMGTileShete_24
+  - first:
+      213: 2340599087735330625
+    second: AutomatikLMGTileShete_25
+  - first:
+      213: -1159682132645625082
+    second: AutomatikLMGTileShete_26
+  - first:
+      213: 1721410723340124584
+    second: AutomatikLMGTileShete_27
+  - first:
+      213: 417301633709246122
+    second: AutomatikLMGTileShete_28
+  - first:
+      213: -8875917888680496758
+    second: AutomatikLMGTileShete_29
+  - first:
+      213: 490803454430012175
+    second: AutomatikLMGTileShete_30
+  - first:
+      213: 5061001809083080922
+    second: AutomatikLMGTileShete_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbd951ef496ac8a0800000000000000
+      internalID: -6284094538238010448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 100
+        width: 15
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc843345557d1c550800000000000000
+      internalID: 6179456925213870284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7349eaf45c98ad4a0800000000000000
+      internalID: -6567785626028043209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 100
+        width: 15
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bb54ce458b381f0800000000000000
+      internalID: -1043788013739066617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa792831c3ba4770800000000000000
+      internalID: 8595880481242315517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 100
+        width: 15
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144548102ba2252a0800000000000000
+      internalID: -6750285947456957375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e417457b6dfe986b0800000000000000
+      internalID: -5293436181519503026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe17ef477660db5f0800000000000000
+      internalID: -739427722404662801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f84627c7de951e0800000000000000
+      internalID: -2208473023497597092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 67
+        width: 15
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eca23e574f375d70800000000000000
+      internalID: 9031757153470426343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e664c35712d30e0800000000000000
+      internalID: -2288636248228205002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 67
+        width: 15
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b2ea8009f014440800000000000000
+      internalID: 4918229379360631667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb0f62c7c908a0a0800000000000000
+      internalID: -6870230477988492356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 67
+        width: 15
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a339bed069d5f1fb0800000000000000
+      internalID: -4674914989127265478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc46ab7d0387de90800000000000000
+      internalID: -7000983001791837003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09faead77f967810800000000000000
+      internalID: 1762771641284884746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbf1c55fcb87f6b0800000000000000
+      internalID: -5262583916945867823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 34
+        width: 15
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4934609aea940c910800000000000000
+      internalID: 1855564060985541524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79682cbcef826210800000000000000
+      internalID: 1324779487332166015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 34
+        width: 15
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cfd50ec1576a0a0800000000000000
+      internalID: -6870675414623322977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05411e1326d165d40800000000000000
+      internalID: 5572673896498402384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 34
+        width: 15
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbc6d15d014d32f0800000000000000
+      internalID: -991564817488229426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1061ef1dfee46c40800000000000000
+      internalID: 5504787415482589210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dbfc654b949a4e0800000000000000
+      internalID: -1969962323098485459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296705e2f12cef5c0800000000000000
+      internalID: -4179689964976441710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_25
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1
+        width: 15
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1475112287a7b7020800000000000000
+      internalID: 2340599087735330625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6034a4f9e3bf7efe0800000000000000
+      internalID: -1159682132645625082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1
+        width: 15
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a18c35beeda3e710800000000000000
+      internalID: 1721410723340124584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa60e69ff9d8ac500800000000000000
+      internalID: 417301633709246122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_29
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1
+        width: 15
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81f9a5f4b762d480800000000000000
+      internalID: -8875917888680496758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03e5d3342fafc600800000000000000
+      internalID: 490803454430012175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutomatikLMGTileShete_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0a10eb45a4c3640800000000000000
+      internalID: 5061001809083080922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AutomatikLMGTileShete_15: 1762771641284884746
+      AutomatikLMGTileShete_3: -1043788013739066617
+      AutomatikLMGTileShete_24: -4179689964976441710
+      AutomatikLMGTileShete_10: -2288636248228205002
+      AutomatikLMGTileShete_28: 417301633709246122
+      AutomatikLMGTileShete_29: -8875917888680496758
+      AutomatikLMGTileShete_26: -1159682132645625082
+      AutomatikLMGTileShete_9: 9031757153470426343
+      AutomatikLMGTileShete_17: 1855564060985541524
+      AutomatikLMGTileShete_22: 5504787415482589210
+      AutomatikLMGTileShete_25: 2340599087735330625
+      AutomatikLMGTileShete_2: -6567785626028043209
+      AutomatikLMGTileShete_4: 8595880481242315517
+      AutomatikLMGTileShete_13: -4674914989127265478
+      AutomatikLMGTileShete_14: -7000983001791837003
+      AutomatikLMGTileShete_12: -6870230477988492356
+      AutomatikLMGTileShete_21: -991564817488229426
+      AutomatikLMGTileShete_5: -6750285947456957375
+      AutomatikLMGTileShete_1: 6179456925213870284
+      AutomatikLMGTileShete_7: -739427722404662801
+      AutomatikLMGTileShete_31: 5061001809083080922
+      AutomatikLMGTileShete_8: -2208473023497597092
+      AutomatikLMGTileShete_27: 1721410723340124584
+      AutomatikLMGTileShete_23: -1969962323098485459
+      AutomatikLMGTileShete_6: -5293436181519503026
+      AutomatikLMGTileShete_11: 4918229379360631667
+      AutomatikLMGTileShete_16: -5262583916945867823
+      AutomatikLMGTileShete_19: -6870675414623322977
+      AutomatikLMGTileShete_20: 5572673896498402384
+      AutomatikLMGTileShete_18: 1324779487332166015
+      AutomatikLMGTileShete_0: -6284094538238010448
+      AutomatikLMGTileShete_30: 490803454430012175
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

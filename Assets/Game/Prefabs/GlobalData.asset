@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e68f092c8d388b34fa92fd4db155633c, type: 3}
+  m_Name: GlobalData
+  m_EditorClassIdentifier: 
+  projectile: {fileID: 415619133400751027, guid: 7882da2ecf8d8bc46afa02a071e6db1d, type: 3}
+  grenadePrefab: {fileID: 291497269844821067, guid: c0e601e22bef3d847831a23c536092c1, type: 3}
+  hitEffect: {fileID: 4849995106774641147, guid: 71f36d688da081643964960acc1daf65, type: 3}
+  explosion: {fileID: 8967823102562908218, guid: 807c73aee26f0ee49b245d6dbe08d41c, type: 3}
+  sliderPrefab: {fileID: 4950191663046230638, guid: e2ae656a570e557429b73b079d564340, type: 3}
+  itemSlot: {fileID: 8272643790381222614, guid: 21107ed906766354bb92fba2458e6260, type: 3}
+  equipmentSlot: {fileID: 4207183910644842500, guid: 21b496ad55e80df4ab51d707ad492de1, type: 3}
+  placeHolder: {fileID: 8272643790381222614, guid: ff5f19c751109eb4c9517f65eda028ec, type: 3}
+  ItemHeader: {fileID: 8274517401591297406, guid: fd8a9300ec0ee6043b8f32f6ebfb6a57, type: 3}
+  normalZombie: {fileID: 427800104389513050, guid: 93e438a0b1dc7a54e86fd764d0046cdb, type: 3}
+  babyZombie: {fileID: 6129251831465033610, guid: 39afaa0c7cf05b6448029825ea424d4b, type: 3}
+  smallBosZombie: {fileID: 2785644597029985966, guid: 68e7bd9e4a458de4db5be43fe6801329, type: 3}
+  rewardPrefab: {fileID: 5355412913302234129, guid: 329a0af4dc9ffd745838504473ff2aa7, type: 3}
+  floatingText: {fileID: 5104663376469915670, guid: 38989d4e134dd8e47af609ae315425b4, type: 3}
+  bulletSprite: {fileID: 2208703988740019828, guid: fe88e1ddc95287d41932a2cc0ea56b84, type: 3}
+  rocketSprite: {fileID: 6711257252158638106, guid: 330bb3fe3b0c2f1499fdcbe8cfd40c26, type: 3}
+  arrowSprite: {fileID: -1689972003, guid: 0cdded43bad6355429579d4091d5840a, type: 3}

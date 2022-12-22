@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb8311a1d41df54bb046eef171723df, type: 3}
+  m_Name: FlashBangData
+  m_EditorClassIdentifier: 
+  itemName: FlashBang
+  damage: 0
+  currentAmmount: 3
+  maxAmmount: 9
+  canGetLeveled: 0
+  currentLevel: 0
+  maxLevel: 20
+  levelImprovements: []
+  upgradeImprovements: []
+  gamePointPrice: 5
+  cashPrice: 0
+  braincellPrice: 0
+  dataTyp: 1
+  itemCategory: 2
+  weaponData:
+    currentAmmo: 0
+    currentClipAmmo: 0
+    maxAmmo: 0
+    maxClipAmmo: 0
+    firerate: 0
+    isTriggerWeapon: 0
+    isSingleReloader: 0
+    currentReloadSound: 
+    reloadSounds: []
+    singleReloadTime: 0.5
+    reloadAnimations: []
+    reloadTimeMultiply: 1
+    currentAttackSound: 
+    attackSounds: []
+    weaponTyp: 0
+    projectileTyp: 0
+    damageTyp: 0
+    penetratingPower: 1
+  grenadeData:
+    grenadeTyp: 1
+    effectValue: 5
+    sprite: {fileID: -5983569269223943449, guid: f4079ea4e314ca647b79dbbcff413e53, type: 3}
+    throwSound: GrenadeOut
+  lMGData:
+    maxHealth: 100
+    destructiveStateSteps: []
+    tops: []
+    bases: []
+    aimRadius: 5
+  extraData:
+    extraTyp: 0
+  perkData:
+    perkTyp: 0
+  generalData:
+    placeSightSize: 7
+    sightTyp: 1
+    holdingType: 1
+    meeleWeaponType: 0
+    oneHandetWeaponTyp: 0
+    twoHandetWeaponTyp: 0
+    objectTyp: 0
+  slotData:
+    itemImageSide: {fileID: -5983569269223943449, guid: f4079ea4e314ca647b79dbbcff413e53, type: 3}
+    slotImageScaleSide: {x: 3, y: 3}
+    slotImageRotationSide: 0
+    itemImageTop: {fileID: -5983569269223943449, guid: f4079ea4e314ca647b79dbbcff413e53, type: 3}
+    slotImageScaleTop: {x: 3, y: 3}
+    slotImageRotationTop: 0
+    stets:
+    - name: Damage
+      stetValues:
+        variable1Name: damage
+        appending: 
+        variable2Name: 
+    - name: Ammount
+      stetValues:
+        variable1Name: currentAmmount
+        appending: 
+        variable2Name: 
+    - name: Range
+      stetValues:
+        variable1Name: 
+        appending: 3m
+        variable2Name: 
+    - name: Duration
+      stetValues:
+        variable1Name: effectValue
+        appending: s
+        variable2Name: 
+    decription: "You have not enough time to kill your enemies because they are to
+      fast? \nThen throw one of these, and you don't have to worry about their speed
+      anymore."
+  globalData: {fileID: 11400000, guid: 545f2c65dbb766e4ca7b30699686d3af, type: 2}

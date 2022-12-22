@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb8311a1d41df54bb046eef171723df, type: 3}
+  m_Name: TitaniumAutoLMGData
+  m_EditorClassIdentifier: 
+  itemName: Titanium LMG
+  damage: 20
+  currentAmmount: 1
+  maxAmmount: 1
+  canGetLeveled: 0
+  currentLevel: 0
+  maxLevel: 20
+  levelImprovements: []
+  upgradeImprovements: []
+  gamePointPrice: 300
+  cashPrice: 0
+  braincellPrice: 0
+  dataTyp: 2
+  itemCategory: 3
+  weaponData:
+    currentAmmo: 100
+    currentClipAmmo: 0
+    maxAmmo: 100
+    maxClipAmmo: 0
+    firerate: 6
+    isTriggerWeapon: 0
+    isSingleReloader: 0
+    currentReloadSound: 
+    reloadSounds: []
+    singleReloadTime: 0.5
+    reloadAnimations: []
+    reloadTimeMultiply: 1
+    currentAttackSound: 
+    attackSounds:
+    - LMGShoot
+    weaponTyp: 0
+    projectileTyp: 0
+    damageTyp: 0
+    penetratingPower: 1
+  grenadeData:
+    grenadeTyp: 0
+    effectValue: 0
+    sprite: {fileID: 0}
+    throwSound: 
+  lMGData:
+    maxHealth: 250
+    destructiveStateSteps:
+    - 250
+    - 166
+    - 82
+    - 0
+    tops:
+    - {fileID: 2340599087735330625, guid: fbd01328c340f074eaa241635d7b910d, type: 3}
+    - {fileID: 1721410723340124584, guid: fbd01328c340f074eaa241635d7b910d, type: 3}
+    - {fileID: -8875917888680496758, guid: fbd01328c340f074eaa241635d7b910d, type: 3}
+    - {fileID: 5061001809083080922, guid: fbd01328c340f074eaa241635d7b910d, type: 3}
+    bases:
+    - {fileID: -4179689964976441710, guid: fbd01328c340f074eaa241635d7b910d, type: 3}
+    - {fileID: -1159682132645625082, guid: fbd01328c340f074eaa241635d7b910d, type: 3}
+    - {fileID: 417301633709246122, guid: fbd01328c340f074eaa241635d7b910d, type: 3}
+    - {fileID: 490803454430012175, guid: fbd01328c340f074eaa241635d7b910d, type: 3}
+    aimRadius: 5
+  extraData:
+    extraTyp: 0
+  perkData:
+    perkTyp: 0
+  generalData:
+    placeSightSize: 1
+    sightTyp: 2
+    holdingType: 3
+    meeleWeaponType: 0
+    pistolType: 0
+    twoHandetWeaponTyp: 0
+    objectTyp: 0
+  slotData:
+    itemImageSide: {fileID: 1270504543684218548, guid: 6a567fed47d300f408511fd7c38b61a5, type: 3}
+    slotImageScaleSide: {x: 1.5, y: 1.5}
+    slotImageRotationSide: 0
+    itemImageTop: {fileID: 1270504543684218548, guid: 6a567fed47d300f408511fd7c38b61a5, type: 3}
+    slotImageScaleTop: {x: 1.5, y: 1.5}
+    slotImageRotationTop: 0
+    stets:
+    - name: Damage
+      stetValues:
+        variable1Name: damage
+        appending: 
+        variable2Name: 
+    - name: Health
+      stetValues:
+        variable1Name: maxHealth
+        appending: 
+        variable2Name: 
+    - name: Ammo
+      stetValues:
+        variable1Name: maxAmmo
+        appending: 
+        variable2Name: 
+    decription: 'Would you like to have less work?
+
+      Then place one of these
+      babies and you
+
+      you can sit back.'
+  globalData: {fileID: 11400000, guid: 545f2c65dbb766e4ca7b30699686d3af, type: 2}

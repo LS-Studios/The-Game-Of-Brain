@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb8311a1d41df54bb046eef171723df, type: 3}
+  m_Name: SMGData
+  m_EditorClassIdentifier: 
+  itemName: SMG
+  damage: 8
+  currentAmmount: 1
+  maxAmmount: 1
+  canGetLeveled: 1
+  currentLevel: 0
+  maxLevel: 20
+  changeItemDataOnUpgrade: 0
+  upgradeData: []
+  levelImprovements:
+  - name: Bullet typ
+    level: 15
+    changeVariable:
+      variablesToChange:
+        variable1Name: bulletTyp
+        appending: 
+        variable2Name: 
+      changeValues:
+        valToUpgradeVar1: 2
+        valToUpgradeVar2: 
+  - name: Bullet typ
+    level: 20
+    changeVariable:
+      variablesToChange:
+        variable1Name: bulletTyp
+        appending: 
+        variable2Name: 
+      changeValues:
+        valToUpgradeVar1: 1
+        valToUpgradeVar2: 
+  - name: ExtraDamage
+    level: 20
+    changeVariable:
+      variablesToChange:
+        variable1Name: damage
+        appending: 
+        variable2Name: 
+      changeValues:
+        valToUpgradeVar1: 15
+        valToUpgradeVar2: 
+  upgradeImprovements:
+  - upgradeName: Damage
+    changeVariable:
+      variablesToChange:
+        variable1Name: damage
+        appending: 
+        variable2Name: 
+      changeValues:
+        valToUpgradeVar1: 2
+        valToUpgradeVar2: 
+  - upgradeName: Max ammo
+    changeVariable:
+      variablesToChange:
+        variable1Name: maxClipAmmo
+        appending: /
+        variable2Name: maxAmmo
+      changeValues:
+        valToUpgradeVar1: 
+        valToUpgradeVar2: 2
+  gamePointPrice: 5
+  cashPrice: 0
+  braincellPrice: 0
+  dataTyp: 0
+  itemCategory: 0
+  weaponData:
+    currentAmmo: 90
+    currentClipAmmo: 30
+    maxAmmo: 90
+    maxClipAmmo: 30
+    firerate: 10
+    isTriggerWeapon: 0
+    isSingleReloader: 0
+    currentReloadSound: 
+    reloadSounds:
+    - SMGReload
+    singleReloadTime: 0.5
+    reloadAnimations: []
+    reloadTimeMultiply: 1
+    currentAttackSound: 
+    attackSounds:
+    - SMGShoot
+    weaponTyp: 0
+    projectileTyp: 0
+    damageTyp: 0
+    penetratingPower: 1
+  grenadeData:
+    grenadeTyp: 0
+    effectValue: 0
+    sprite: {fileID: 0}
+    throwSound: 
+  lMGData:
+    maxHealth: 100
+    destructiveStateSteps: []
+    tops: []
+    bases: []
+    aimRadius: 5
+  extraData:
+    extraTyp: 0
+  perkData:
+    perkTyp: 0
+  generalData:
+    placeSightSize: 7
+    sightTyp: 1
+    holdingType: 2
+    meeleWeaponType: 0
+    pistolType: 0
+    twoHandetWeaponTyp: 0
+    objectTyp: 0
+  slotData:
+    itemImageSide: {fileID: -699006473, guid: 81f48259e2fc1ab429a71ce951750158, type: 3}
+    slotImageScaleSide: {x: 2.3, y: 2.3}
+    slotImageRotationSide: 0
+    itemImageTop: {fileID: 572519463, guid: 279ffce694df54441ba64a6f68420226, type: 3}
+    slotImageScaleTop: {x: 4, y: 4}
+    slotImageRotationTop: -90
+    stets:
+    - name: Damage
+      stetValues:
+        variable1Name: damage
+        appending: 
+        variable2Name: 
+    - name: Ammo
+      stetValues:
+        variable1Name: currentClipAmmo
+        appending: /
+        variable2Name: currentAmmo
+    - name: Damage typ
+      stetValues:
+        variable1Name: damageTyp
+        appending: 
+        variable2Name: 
+    decription: Many bullets and faster shooting result in more fun.
+  globalData: {fileID: 11400000, guid: 545f2c65dbb766e4ca7b30699686d3af, type: 2}

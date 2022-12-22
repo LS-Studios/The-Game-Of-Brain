@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb8311a1d41df54bb046eef171723df, type: 3}
+  m_Name: KatanaData
+  m_EditorClassIdentifier: 
+  itemName: Katana
+  damage: 25
+  currentAmmount: 1
+  maxAmmount: 1
+  canGetLeveled: 1
+  currentLevel: 0
+  maxLevel: 20
+  levelImprovements:
+  - name: ExtraDamage
+    level: 20
+    changeVariable:
+      variablesToChange:
+        variable1Name: damage
+        appending: 
+        variable2Name: 
+      changeValues:
+        valToUpgradeVar1: 15
+        valToUpgradeVar2: 
+  upgradeImprovements:
+  - upgradeName: Damage
+    changeVariable:
+      variablesToChange:
+        variable1Name: damage
+        appending: 
+        variable2Name: 
+      changeValues:
+        valToUpgradeVar1: 2
+        valToUpgradeVar2: 
+  gamePointPrice: 5
+  dataTyp: 0
+  itemCategory: 0
+  weaponData:
+    currentAmmo: 0
+    currentClipAmmo: 0
+    maxAmmo: 0
+    maxClipAmmo: 0
+    firerate: 0
+    isTriggerWeapon: 1
+    isSingleReloader: 0
+    currentReloadSound: 
+    reloadSounds: []
+    singleReloadTime: 0.5
+    reloadAnimations: []
+    reloadTimeMultiply: 1
+    currentAttackSound: 
+    attackSounds:
+    - KatanaSwing1
+    - KatanaSwing2
+    - KatanaSwing3
+    weaponTyp: 2
+    projectileTyp: 0
+    damageTyp: 0
+    penetratingPower: 1
+  grenadeData:
+    grenadeTyp: 0
+    effectValue: 0
+    sprite: {fileID: 0}
+    throwSound: 
+  lMGData:
+    maxHealth: 100
+    destructiveStateSteps: []
+    tops: []
+    bases: []
+    aimRadius: 5
+  extraData:
+    extraTyp: 0
+  perkData:
+    perkTyp: 0
+  generalData:
+    placeSightSize: 7
+    sightTyp: 3
+    holdingType: 0
+    meeleWeaponType: 1
+    pistolType: 0
+    twoHandetWeaponTyp: 0
+    objectTyp: 0
+  slotData:
+    price: 0
+    itemImageSide: {fileID: 847037878, guid: d654d59936400d641bc7c468d6a5960e, type: 3}
+    slotImageScaleSide: {x: 4.5, y: 4.5}
+    slotImageRotationSide: 0
+    itemImageTop: {fileID: 847037878, guid: d654d59936400d641bc7c468d6a5960e, type: 3}
+    slotImageScaleTop: {x: 4.5, y: 4.5}
+    slotImageRotationTop: 0
+    stets:
+    - name: Damage
+      stetValues:
+        variable1Name: damage
+        appending: 
+        variable2Name: 
+    decription: Swing once, kill everything.
+  globalData: {fileID: 11400000, guid: 545f2c65dbb766e4ca7b30699686d3af, type: 2}

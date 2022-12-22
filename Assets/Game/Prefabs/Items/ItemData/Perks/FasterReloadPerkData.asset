@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb8311a1d41df54bb046eef171723df, type: 3}
+  m_Name: FasterReloadPerkData
+  m_EditorClassIdentifier: 
+  itemName: Faster reload
+  damage: 0
+  currentAmmount: 1
+  maxAmmount: 1
+  canGetLeveled: 0
+  currentLevel: 0
+  maxLevel: 20
+  levelImprovements: []
+  upgradeImprovements: []
+  gamePointPrice: 150
+  dataTyp: 3
+  itemCategory: 4
+  weaponData:
+    currentAmmo: 0
+    currentClipAmmo: 0
+    maxAmmo: 0
+    maxClipAmmo: 0
+    firerate: 0
+    isTriggerWeapon: 0
+    isSingleReloader: 0
+    currentReloadSound: 
+    reloadSounds: []
+    singleReloadTime: 0.5
+    reloadAnimations: []
+    reloadTimeMultiply: 1
+    currentAttackSound: 
+    attackSounds: []
+    weaponTyp: 0
+    projectileTyp: 0
+    damageTyp: 0
+    penetratingPower: 1
+  grenadeData:
+    grenadeTyp: 0
+    effectValue: 0
+    sprite: {fileID: 0}
+    throwSound: 
+  lMGData:
+    maxHealth: 100
+    destructiveStateSteps: []
+    tops: []
+    bases: []
+    aimRadius: 5
+  extraData:
+    extraTyp: 3
+  perkData:
+    perkTyp: 3
+  generalData:
+    placeSightSize: 7
+    sightTyp: 1
+    holdingType: 0
+    meeleWeaponType: 0
+    pistolType: 0
+    twoHandetWeaponTyp: 0
+    objectTyp: 0
+  slotData:
+    price: 150
+    itemImageSide: {fileID: 21300000, guid: 4a64232cde52fb74987c2b578a89d5aa, type: 3}
+    slotImageScaleSide: {x: 1.8, y: 1.8}
+    slotImageRotationSide: 0
+    itemImageTop: {fileID: 21300000, guid: 4a64232cde52fb74987c2b578a89d5aa, type: 3}
+    slotImageScaleTop: {x: 1.8, y: 1.8}
+    slotImageRotationTop: 0
+    stets: []
+    decription: Makes you reload faster.
+  globalData: {fileID: 11400000, guid: 545f2c65dbb766e4ca7b30699686d3af, type: 2}

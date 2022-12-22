@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb8311a1d41df54bb046eef171723df, type: 3}
+  m_Name: FlameThrowerData
+  m_EditorClassIdentifier: 
+  itemName: FlameThrower
+  damage: 4
+  currentAmmount: 1
+  maxAmmount: 1
+  canGetLeveled: 1
+  currentLevel: 0
+  maxLevel: 20
+  changeItemDataOnUpgrade: 0
+  upgradeData: []
+  levelImprovements:
+  - name: ExtraDamage
+    level: 20
+    changeVariable:
+      variablesToChange:
+        variable1Name: damage
+        appending: 
+        variable2Name: 
+      changeValues:
+        valToUpgradeVar1: 2
+        valToUpgradeVar2: 
+  upgradeImprovements:
+  - upgradeName: Damage
+    changeVariable:
+      variablesToChange:
+        variable1Name: damage
+        appending: 
+        variable2Name: 
+      changeValues:
+        valToUpgradeVar1: 0.3
+        valToUpgradeVar2: 
+  - upgradeName: Max ammo
+    changeVariable:
+      variablesToChange:
+        variable1Name: maxClipAmmo
+        appending: /
+        variable2Name: maxAmmo
+      changeValues:
+        valToUpgradeVar1: 
+        valToUpgradeVar2: 5
+  gamePointPrice: 5
+  cashPrice: 0
+  braincellPrice: 0
+  dataTyp: 0
+  itemCategory: 0
+  weaponData:
+    currentAmmo: 200
+    currentClipAmmo: 50
+    maxAmmo: 200
+    maxClipAmmo: 50
+    firerate: 0
+    isTriggerWeapon: 0
+    isSingleReloader: 0
+    currentReloadSound: 
+    reloadSounds:
+    - FlameThrowerReload
+    singleReloadTime: 0.5
+    reloadAnimations: []
+    reloadTimeMultiply: 1
+    currentAttackSound: 
+    attackSounds:
+    - FlameThrowerShoot
+    weaponTyp: 1
+    projectileTyp: 0
+    damageTyp: 2
+    penetratingPower: 1
+  grenadeData:
+    grenadeTyp: 0
+    effectValue: 0
+    sprite: {fileID: 0}
+    throwSound: 
+  lMGData:
+    maxHealth: 100
+    destructiveStateSteps: []
+    tops: []
+    bases: []
+    aimRadius: 5
+  extraData:
+    extraTyp: 0
+  perkData:
+    perkTyp: 0
+  generalData:
+    placeSightSize: 7
+    sightTyp: 0
+    holdingType: 2
+    meeleWeaponType: 0
+    pistolType: 0
+    twoHandetWeaponTyp: 1
+    objectTyp: 0
+  slotData:
+    itemImageSide: {fileID: 320929761, guid: f101a98510de6c74287f4e1a85c2decf, type: 3}
+    slotImageScaleSide: {x: 3, y: 3}
+    slotImageRotationSide: 0
+    itemImageTop: {fileID: -137820627, guid: 5773e5d134b09ce4798c6ab7c497bba2, type: 3}
+    slotImageScaleTop: {x: 4, y: 4}
+    slotImageRotationTop: -90
+    stets:
+    - name: Damage
+      stetValues:
+        variable1Name: damage
+        appending: 
+        variable2Name: 
+    - name: Ammo
+      stetValues:
+        variable1Name: currentClipAmmo
+        appending: /
+        variable2Name: currentAmmo
+    - name: Damage typ
+      stetValues:
+        variable1Name: damageTyp
+        appending: 
+        variable2Name: 
+    decription: 'You like to burn?
+
+      Then do it!'
+  globalData: {fileID: 11400000, guid: 545f2c65dbb766e4ca7b30699686d3af, type: 2}
