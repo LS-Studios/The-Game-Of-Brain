@@ -32,7 +32,7 @@ Planned features:
 - Built for **mobile devices**
 - Optimized for touch controls
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-- Game Engine: [Your engine here, e.g., Unity, Godot]
-- Language: [Your programming language, e.g., C#, GDScript]
+- Game Engine: Unity
+- Language: C#
