@@ -11,11 +11,11 @@ The Game of Brain is a pixel-style top-down shooter for mobile devices. Battle w
 
 ## Features
 
-- 📦 Two playable levels
-- 🧟‍♂️ Various enemy types
-- 💥 A wide range of weapons (pistol, shotgun, machine gun, etc.)
-- 🛠️ Upgradeable items and weapons
-- 🎨 Retro pixel art style
+- Two playable levels
+- Various enemy types
+- A wide range of weapons (pistol, shotgun, machine gun, etc.)
+- Upgradeable items and weapons
+- Retro pixel art style
 
 ## Development Status
 
