@@ -1,15 +1,15 @@
-# 🧠 The Game of Brain
+# The Game of Brain
 
 The Game of Brain is a pixel-style top-down shooter for mobile devices. Battle waves of zombies and monsters, earn points, and use them to upgrade your weapons and items!
 
-## 🎮 Gameplay
+## Gameplay
 
 - Classic top-down pixel shooter
 - Fight against zombies and other monsters in multiple waves
 - Earn points by surviving and defeating enemies
 - Spend points to upgrade weapons and gear
 
-## 🔫 Features
+## Features
 
 - 📦 Two playable levels
 - 🧟‍♂️ Various enemy types
@@ -17,7 +17,7 @@ The Game of Brain is a pixel-style top-down shooter for mobile devices. Battle w
 - 🛠️ Upgradeable items and weapons
 - 🎨 Retro pixel art style
 
-## 🚧 Development Status
+## Development Status
 
 The game is currently **under development**. Some features are not yet complete.
 
@@ -27,7 +27,7 @@ Planned features:
 - Improved UI
 - More sound effects and music
 
-## 📱 Platform
+## Platform
 
 - Built for **mobile devices**
 - Optimized for touch controls
